@@ -5,4 +5,4 @@
 
 Каждый компонент приложения создан с помощью классов JavaScript по всем (или почти всем) традициям ООП.
 
-Ссылка на приложение: [https://olyamosienko.github.io/donates-with-classes-JS/build/index.html]
+Ссылка на приложение: https://olyamosienko.github.io/donates-with-classes-JS/build/index.html
